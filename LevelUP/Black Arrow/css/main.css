@@ -1,0 +1,74 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: Montserrat, sans-serif;
+}
+div {
+ 	box-sizing: border-box;
+ }
+ header {
+	background: url( ../img/bgr1.png) no-repeat center top / cover;
+	padding-bottom: 810px; 
+}
+.wrapper {
+    width: 1474px;
+	margin: 0 auto;
+}
+.top_row {
+
+}
+nav {
+   float: left;
+   margin-top: 48px;
+}
+.navigate {
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+.navigate li {
+	float: left;
+	margin-left: 100px;
+	display: block;
+}
+.navigate a {
+	color: #fff;
+	text-decoration: none;
+	font-size: 18px;
+}
+.heading {
+	width: 380px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 150px;
+}
+.heading h1 {
+	color: #fff;
+	font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 63px
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+}
+.heading p {
+	color: #fff;
+	font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+}
+.string {
+    width: 550px;
+	float: left;
+	margin-left: -370px;
+	margin-top: 350px;
+	float: left;
+}
+.string p {
+	color: #fff;
+	font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 34px;
+}
